@@ -1,0 +1,16 @@
+h1 {
+    color:crimson;
+    text-align: center;
+}
+
+header p {
+    color:cornflowerblue;
+}
+
+header p span {
+    color:goldenrod;
+}
+
+.color {
+    background-color:gold;
+}
